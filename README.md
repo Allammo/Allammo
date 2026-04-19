@@ -21,7 +21,7 @@ MSc candidate at Khalifa University (4.0 CGPA, Expected Jul 2026) specializing i
 |---|---|---|
 | [AI Defect Detection in Automotive Manufacturing](#) | Manufacturing · Quality 4.0 | 98% F1, 99% AUC — published in Nature Scientific Reports |
 | [Brain Tumor Classification from MRI](#) | Medical imaging | >99% training accuracy across 4 architectures (3,600+ samples) |
-| [Phishing Website Detection](#) | Cybersecurity · NLP | 99–100% accuracy across LR, SVM, XGBoost, Transformer on 235K samples |
+| [Phishing Website Detection](#) | Cybersecurity | 99–100% accuracy across LR, SVM, XGBoost, Transformer on 235K samples |
 
 ---
 
