@@ -28,7 +28,7 @@ MSc candidate at Khalifa University (4.0 CGPA, Expected Jul 2026) specializing i
 ## Tech stack
 
 **Languages** &nbsp; Python · R · SQL  
-**ML / AI** &nbsp; Scikit-learn · PyTorch · XGBoost · Detectron2  
+**ML / AI** &nbsp; Scikit-learn · PyTorch · XGBoost   
 **Optimization** &nbsp; Gurobi · PuLP · LINGO  
 **Visualization** &nbsp; Power BI · Matplotlib · Seaborn  
 **Simulation** &nbsp; Simio  
